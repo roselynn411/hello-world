@@ -1,0 +1,15 @@
+/Users/worklaptop/projects/dnc100/MyApp/hello-world/bin/Debug/net5.0/hello-world.deps.json
+/Users/worklaptop/projects/dnc100/MyApp/hello-world/bin/Debug/net5.0/hello-world.runtimeconfig.json
+/Users/worklaptop/projects/dnc100/MyApp/hello-world/bin/Debug/net5.0/hello-world.runtimeconfig.dev.json
+/Users/worklaptop/projects/dnc100/MyApp/hello-world/bin/Debug/net5.0/hello-world.dll
+/Users/worklaptop/projects/dnc100/MyApp/hello-world/bin/Debug/net5.0/ref/hello-world.dll
+/Users/worklaptop/projects/dnc100/MyApp/hello-world/bin/Debug/net5.0/hello-world.pdb
+/Users/worklaptop/projects/dnc100/MyApp/hello-world/obj/Debug/net5.0/hello-world.csproj.AssemblyReference.cache
+/Users/worklaptop/projects/dnc100/MyApp/hello-world/obj/Debug/net5.0/hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/worklaptop/projects/dnc100/MyApp/hello-world/obj/Debug/net5.0/hello-world.AssemblyInfoInputs.cache
+/Users/worklaptop/projects/dnc100/MyApp/hello-world/obj/Debug/net5.0/hello-world.AssemblyInfo.cs
+/Users/worklaptop/projects/dnc100/MyApp/hello-world/obj/Debug/net5.0/hello-world.csproj.CoreCompileInputs.cache
+/Users/worklaptop/projects/dnc100/MyApp/hello-world/obj/Debug/net5.0/hello-world.dll
+/Users/worklaptop/projects/dnc100/MyApp/hello-world/obj/Debug/net5.0/ref/hello-world.dll
+/Users/worklaptop/projects/dnc100/MyApp/hello-world/obj/Debug/net5.0/hello-world.pdb
+/Users/worklaptop/projects/dnc100/MyApp/hello-world/obj/Debug/net5.0/hello-world.genruntimeconfig.cache
